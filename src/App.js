@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Root app component
+          My first react js app
         </p>
       </header>
     </div>
